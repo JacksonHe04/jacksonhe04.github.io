@@ -1,13 +1,13 @@
 ---
 layout: home
 
-title: VitePress
+title: Hyper Jet Codes
 titleTemplate: 快速上手中文教程
 
 hero:
-  name: VitePress
-  text: "快速上手中文教程"
-  tagline: 如果你也想搭建它，那跟我一起做吧
+  name: I'm Jackson He
+  text: "It's Now or Never"
+  tagline: 你知道HJC是什么意思吗？🧐<br/>是HtmlJavascriptCss的缩写。🤣🤣🤣
   image:
     src: /logo.png
     alt: VitePress
@@ -15,12 +15,13 @@ hero:
     - theme: brand
       text: 开始
       link: /getting-started
+    - theme: sponsor
+      text: About Me
+      link: /nav/
     - theme: alt
       text: GitHub
-      link: https://github.com/Yiov/vitepress-doc
-    - theme: sponsor
-      text: 搭建导航
-      link: /nav/
+      link: https://github.com/jacksonhe04
+    
 
 features:
   - icon: 📝
