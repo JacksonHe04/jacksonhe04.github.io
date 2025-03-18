@@ -1,6 +1,6 @@
-# 基于 VitePress 构建的个人网站
+# 基于 VitePress 构建的文档网站
 
-欢迎来到我的个人网站仓库，该网站使用 VitePress 构建。这个网站作为我的在线作品集，展示了我的工作、项目和兴趣。
+欢迎来到我的个人技术文档仓库[HyperJetCode](https://jacksonhe04.github.io)，该网站使用 VitePress 构建。这个网站作为我的在线作品集，展示了我的工作、项目和兴趣。
 
 ## 📂 项目结构
 
